@@ -1,0 +1,272 @@
+2075-0 		:	 Chloride [Moles/volume] in Serum or Plasma
+21000-5 		:	 Erythrocyte distribution width [Entitic volume] by Automated count
+30341-2 		:	 Erythrocyte sedimentation rate
+2028-9 		:	 Carbon dioxide, total [Moles/volume] in Serum or Plasma
+2160-0 		:	 Creatinine [Mass/volume] in Serum or Plasma
+3097-3 		:	 Urea nitrogen/Creatinine [Mass Ratio] in Serum or Plasma
+26485-3 		:	 Monocytes/100 leukocytes in Blood
+2951-2 		:	 Sodium [Moles/volume] in Serum or Plasma
+789-8 		:	 Erythrocytes [#/volume] in Blood by Automated count
+1759-0 		:	 Albumin/Globulin [Mass Ratio] in Serum or Plasma
+2885-2 		:	 Protein [Mass/volume] in Serum or Plasma
+718-7 		:	 Hemoglobin [Mass/volume] in Blood
+2498-4 		:	 Iron [Mass/volume] in Serum or Plasma
+883-9 		:	 ABO group [Type] in Blood
+10331-7 		:	 Rh [Type] in Blood
+731-0 		:	 Lymphocytes [#/volume] in Blood by Automated count
+2345-7 		:	 Glucose [Mass/volume] in Serum or Plasma
+17861-6 		:	 Calcium [Mass/volume] in Serum or Plasma
+1742-6 		:	 Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+26515-7 		:	 Platelets [#/volume] in Blood
+770-8 		:	 Neutrophils/100 leukocytes in Blood by Automated count
+20570-8 		:	 Hematocrit [Volume Fraction] of Blood
+786-4 		:	 MCHC [Mass/volume] by Automated count
+26464-8 		:	 Leukocytes [#/volume] in Blood
+5905-5 		:	 Monocytes/100 leukocytes in Blood by Automated count
+785-6 		:	 MCH [Entitic mass] by Automated count
+704-7 		:	 Basophils [#/volume] in Blood by Automated count
+751-8 		:	 Neutrophils [#/volume] in Blood by Automated count
+3094-0 		:	 Urea nitrogen [Mass/volume] in Serum or Plasma
+706-2 		:	 Basophils/100 leukocytes in Blood by Automated count
+16128-1 		:	 Hepatitis C virus Ab [Presence] in Serum
+10466-1 		:	 Anion gap 3 in Serum or Plasma
+10834-0 		:	 Globulin [Mass/volume] in Serum by calculation
+711-2 		:	 Eosinophils [#/volume] in Blood by Automated count
+742-7 		:	 Monocytes [#/volume] in Blood by Automated count
+1968-7 		:	 Bilirubin.direct [Mass/volume] in Serum or Plasma
+6768-6 		:	 Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma
+737-7 		:	 Lymphocytes/100 leukocytes in Blood by Manual count
+53326-5 		:	 Specific gravity of Urine by Automated test strip
+48642-3 		:	 Glomerular filtration rate/1.73 sq M.predicted among non-blacks [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)
+48643-1 		:	 Glomerular filtration rate/1.73 sq M.predicted among blacks [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)
+6598-7 		:	 Troponin T.cardiac [Mass/volume] in Serum or Plasma
+2744-1 		:	 pH of Arterial blood
+32623-1 		:	 Platelet mean volume [Entitic volume] in Blood by Automated count
+2823-3 		:	 Potassium [Moles/volume] in Serum or Plasma
+1751-7 		:	 Albumin [Mass/volume] in Serum or Plasma
+50551-1 		:	 Bilirubin.total [Presence] in Urine by Automated test strip
+776-5 		:	 Platelet mean volume [Entitic volume] in Blood by Rees-Ecker
+2085-9 		:	 Cholesterol in HDL [Mass/volume] in Serum or Plasma
+30428-7 		:	 MCV [Entitic volume]
+13457-7 		:	 Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation
+1994-3 		:	 Calcium.ionized [Moles/volume] in Blood
+2888-6 		:	 Protein [Mass/volume] in Urine
+736-9 		:	 Lymphocytes/100 leukocytes in Blood by Automated count
+3084-1 		:	 Urate [Mass/volume] in Serum or Plasma
+94309-2 		:	 SARS-CoV-2 (COVID-19) RNA [Presence] in Specimen by NAA with probe detection
+2276-4 		:	 Ferritin [Mass/volume] in Serum or Plasma
+4548-4 		:	 Hemoglobin A1c/Hemoglobin.total in Blood
+3034-6 		:	 Transferrin [Mass/volume] in Serum or Plasma
+13969-1 		:	 Creatine kinase.MB [Mass/volume] in Serum or Plasma
+788-0 		:	 Erythrocyte distribution width [Ratio] by Automated count
+2500-7 		:	 Iron binding capacity [Mass/volume] in Serum or Plasma
+10839-9 		:	 Troponin I.cardiac [Mass/volume] in Serum or Plasma
+30180-4 		:	 Basophils/100 leukocytes in Blood
+4544-3 		:	 Hematocrit [Volume Fraction] of Blood by Automated count
+787-2 		:	 MCV [Entitic volume] by Automated count
+1975-2 		:	 Bilirubin.total [Mass/volume] in Serum or Plasma
+7905-3 		:	 Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Neutralization test
+32693-4 		:	 Lactate [Moles/volume] in Blood
+48067-3 		:	 Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma by Immunoassay
+6301-6 		:	 INR in Platelet poor plasma by Coagulation assay
+2711-0 		:	 Oxygen saturation in Venous blood
+777-3 		:	 Platelets [#/volume] in Blood by Automated count
+5902-2 		:	 Prothrombin time (PT)
+2339-0 		:	 Glucose [Mass/volume] in Blood
+6690-2 		:	 Leukocytes [#/volume] in Blood by Automated count
+740-1 		:	 Metamyelocytes/100 leukocytes in Blood by Manual count
+30313-1 		:	 Hemoglobin [Mass/volume] in Arterial blood
+732-8 		:	 Lymphocytes [#/volume] in Blood by Manual count
+58450-8 		:	 Bilirubin [Presence] in Urine by Confirmatory method
+2157-6 		:	 Creatine kinase [Enzymatic activity/volume] in Serum or Plasma
+1971-1 		:	 Bilirubin.indirect [Mass/volume] in Serum or Plasma
+1960-4 		:	 Bicarbonate [Moles/volume] in Arterial blood
+30522-7 		:	 C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method
+2713-6 		:	 Oxygen saturation Calculated from oxygen partial pressure in Blood
+2340-8 		:	 Glucose [Mass/volume] in Blood by Automated test strip
+783-1 		:	 Promyelocytes/100 leukocytes in Blood by Manual count
+2777-1 		:	 Phosphate [Mass/volume] in Serum or Plasma
+2708-6 		:	 Oxygen saturation in Arterial blood
+5964-2 		:	 Prothrombin time (PT) in Blood by Coagulation assay
+69405-9 		:	 Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood
+33914-3 		:	 Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)
+5770-3 		:	 Bilirubin.total [Presence] in Urine by Test strip
+713-8 		:	 Eosinophils/100 leukocytes in Blood by Automated count
+26449-9 		:	 Eosinophils [#/volume] in Blood
+20507-0 		:	 Reagin Ab [Presence] in Serum by RPR
+20565-8 		:	 Carbon dioxide, total [Moles/volume] in Blood
+753-4 		:	 Neutrophils [#/volume] in Blood by Manual count
+2093-3 		:	 Cholesterol [Mass/volume] in Serum or Plasma
+20585-6 		:	 Lymphocytes [#/volume] in Specimen by Automated count
+2746-6 		:	 pH of Venous blood
+1920-8 		:	 Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+43396-1 		:	 Cholesterol non HDL [Mass/volume] in Serum or Plasma
+38483-4 		:	 Creatinine [Mass/volume] in Blood
+14627-4 		:	 Bicarbonate [Moles/volume] in Venous blood
+23761-0 		:	 Neutrophils/100 leukocytes in Blood by Manual count
+2703-7 		:	 Oxygen [Partial pressure] in Arterial blood
+49497-1 		:	 Platelets [#/volume] in Blood by Estimate
+33037-3 		:	 Anion gap in Serum or Plasma
+14957-5 		:	 Microalbumin [Mass/volume] in Urine
+3016-3 		:	 Thyrotropin [Units/volume] in Serum or Plasma
+2161-8 		:	 Creatinine [Mass/volume] in Urine
+2571-8 		:	 Triglyceride [Mass/volume] in Serum or Plasma
+27353-2 		:	 Glucose mean value [Mass/volume] in Blood Estimated from glycated hemoglobin
+712-0 		:	 Eosinophils [#/volume] in Blood by Manual count
+3024-7 		:	 Thyroxine (T4) free [Mass/volume] in Serum or Plasma
+30934-4 		:	 Natriuretic peptide B [Mass/volume] in Serum or Plasma
+20454-5 		:	 Protein [Presence] in Urine by Test strip
+33762-6 		:	 Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma
+749-2 		:	 Myelocytes/100 leukocytes in Blood by Manual count
+34714-6 		:	 INR in Blood by Coagulation assay
+53553-4 		:	 Glucose mean value [Moles/volume] in Blood Estimated from glycated hemoglobin
+33959-8 		:	 Procalcitonin [Mass/volume] in Serum or Plasma
+744-3 		:	 Monocytes/100 leukocytes in Blood by Manual count
+2502-3 		:	 Iron saturation [Mass Fraction] in Serum or Plasma
+16859-1 		:	 Fibrinogen [Presence] in Platelet poor plasma
+6299-2 		:	 Urea nitrogen [Mass/volume] in Blood
+6298-4 		:	 Potassium [Moles/volume] in Blood
+705-4 		:	 Basophils [#/volume] in Blood by Manual count
+2019-8 		:	 Carbon dioxide [Partial pressure] in Arterial blood
+743-5 		:	 Monocytes [#/volume] in Blood by Manual count
+707-0 		:	 Basophils/100 leukocytes in Blood by Manual count
+2069-3 		:	 Chloride [Moles/volume] in Blood
+3173-2 		:	 aPTT in Blood by Coagulation assay
+3040-3 		:	 Lipase [Enzymatic activity/volume] in Serum or Plasma
+9830-1 		:	 Cholesterol.total/Cholesterol in HDL [Mass Ratio] in Serum or Plasma
+70199-5 		:	 Bilirubin.total [Moles/volume] in Urine
+20409-9 		:	 Erythrocytes [#/volume] in Urine by Test strip
+2965-2 		:	 Specific gravity of Urine
+2947-0 		:	 Sodium [Moles/volume] in Blood
+17849-1 		:	 Reticulocytes/100 erythrocytes in Blood by Automated count
+61151-7 		:	 Albumin [Mass/volume] in Serum or Plasma by Bromocresol green (BCG) dye binding method
+15179-5 		:	 Fibrin D-dimer [Presence] in Platelet poor plasma
+42757-5 		:	 Troponin I.cardiac [Mass/volume] in Blood
+17855-8 		:	 Hemoglobin A1c/Hemoglobin.total in Blood by calculation
+22322-2 		:	 Hepatitis B virus surface Ab [Presence] in Serum
+48159-8 		:	 Hepatitis C virus Ab Signal/Cutoff in Serum or Plasma by Immunoassay
+2324-2 		:	 Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma
+32133-1 		:	 Lactate [Moles/volume] in Plasma venous
+714-6 		:	 Eosinophils/100 leukocytes in Blood by Manual count
+57747-8 		:	 Erythrocytes [#/volume] in Urine by Automated test strip
+11064-3 		:	 Urea nitrogen [Mass/volume] in Serum or Plasma --post dialysis
+RESP RATE
+SOFA - CARDIOVASCULAR
+SOFA - RENAL
+SOFA - COAGULATION
+SOFA - LIVER
+SOFA - RESPIRATION
+SOFA - CNS
+DBP - Unknown Method
+SBP - Unknown Method
+ETCO2
+PEEP
+FIO2
+BP - Art Line DBP
+PAIN SCALE
+GCS SCORE - Adult
+TEMPERATURE
+CVP - Central Venous Pressure
+BP - Non-invasive SBP
+ROTHMAN SCORE
+HEART RATE
+RESP DEVICE
+BP - Art Line SBP
+MAP - Cuff
+MAP - Non Invasive
+MAP - Pulmonary
+MAP - Art Line
+BP - Non-invasive DBP
+SOFA_SCORE
+SPO2
+WEIGHT
+HEIGHT
+PAIN SCALE - Peds Wong-Baker
+RESP RATE - Adult Spont
+O2 FLOW RATE - L/MIN
+PIP
+TIDAL VOLUME
+QTCB
+RESP RATE - Mech
+TIDAL VOLUME - Spontaneous
+VENT MODE - Peds
+RESP RATE - Peds Spont
+CVP mean - Mean Central Venous Pressure
+VENT MODE - Adult
+O2 FLOW RATE - mL/MIN
+ETCO2 - Oral/Nasal
+GCS SCORE - Peds
+LDA - intubation tube type
+84484 		:	   Under Chemistry ProceduresThe lab analyst performs the technical lab test typically using serum, plasma, or whole blood to quantitate troponin. Troponin is a protein labs commonly measure to verify a myocardial infarction and monitor its aftermath.
+80053 		:	   Under Organ or Disease Oriented PanelsThe lab analyst performs a comprehensive metabolic panel, or CMP test in which he measures the blood level of 14 chemicals the code descriptor lists for the panel. 
+82947 		:	   Under Chemistry ProceduresThe lab analyst performs a test to measure the amount of glucose in a patient's blood using a method other than a reagent strip.
+85027 		:	   Under Hematology and Coagulation ProceduresThe lab analyst performs a blood count on the red and white blood cells and platelets also known as thrombocytes. He also determines the hemoglobin, typically by spectrophotometry, and the hematocrit, or packed red cell volume, by calculation in a whole blood sample.
+85610 		:	   Under Hematology and Coagulation ProceduresProthrombin time is most commonly measured using the blood plasma. Chemicals like calcium and tissue factor are added to the plasma sample and then the time is noted when the plasma clots. To analyze if a blood thinner agent or an anticoagulant drug like Coumadin is working, the drug is mixed in blood plasma or the patient is instructed to take the medicine before the test. The anticoagulant drug, when properly acting, causes a delay in clotting of blood.
+85379 		:	   Under Hematology and Coagulation ProceduresThe lab analyst performs a test using patient plasma to measure the level of D–dimer in the specimen. 
+80076 		:	   Under Organ or Disease Oriented PanelsThe lab analyst performs a hepatic function panel test in which he measures the blood levels of total protein, albumin, alkaline phosphatase, bilirubin, both total and direct, and liver enzymes.
+83036 		:	   Under Chemistry ProceduresSugar in the bloodstream can get attached to the hemoglobin in red blood cells. Once the sugar is attached, it stays there for the lifetime of the red blood cell (around 120 days or over 3 months). The higher the amount of blood sugar, the more the quantity of sugar attached to the blood cells. This A1C test measures the amount of sugar sticking to the red blood cells, displaying the result as a percentage. This gives the physician an understanding about the blood sugar level of the patient for the preceding three months. A normal, healthy person should have A1C level below 7%.  
+80048 		:	   Under Organ or Disease Oriented PanelsThe lab analyst performs a basic metabolic pane (BMP) test in which he measures the blood level of eight chemicals including total calcium, sodium, potassium, chloride, carbon dioxide, glucose, blood urea nitrogen (BUN), and creatinine.
+81001 		:	   Under Urinalysis ProceduresUrinalysis is used to detect substances or cellular material in the urine associated with different metabolic and kidney disorders. It is used to detect urinary tract infections (UTI) and other disorders of the urinary tract. A regular urinalysis often includes color, clarity, odor, specific gravity, pH, protein, glucose, nitrites, WBC, and ketones. The most common method is dipstick or tablet reagent urinalysis but it can be performed by some other methods as well.
+85025 		:	   Under Hematology and Coagulation ProceduresA complete blood count (better known as a CBC) is a blood test request by a doctor that provides detailed information about various types of cells in a patient's blood. Usually a pathologist or a technician conducts the test and provides the results of CBC to the requesting doctor. The blood is drawn from the patient's vein using a syringe and is stored in a test tube containing an anticoagulant (usually EDTA or citrate) to prevent clotting and transported to laboratory.  Nowadays, most often, the cell counting process is done in an automated way using an instrument known as an "automated analyzer". The automatic cell counter counts the number of different cells in the blood and the results are printed out for review by the physician.
+84100 		:	   Under Chemistry ProceduresThe lab analyst performs a test to evaluate the level of phosphate, which is phosphorus not contained in biological compounds, in a patient specimen such as serum.
+83735 		:	   Under Chemistry ProceduresThe lab analyst performs a test to measure the amount of magnesium in a patient specimen.    
+82728 		:	   Under Chemistry ProceduresThe lab analyst measures the level of ferritin, an important protein composed of about 20 percent iron. Ferritin also acts as an iron reserve in the body, and is present in serum in only minute quantities, but it reflects the iron stores in the body.
+85730 		:	   Under Hematology and Coagulation ProceduresThe analyst performs the technical lab test using plasma or whole blood to measure partial thromboplastin time, PTT, also called APTT, activated partial thromboplastin time. The PTT assay can help diagnose bleeding disorders and monitor anticoagulant therapy.
+80061 		:	   Under Organ or Disease Oriented PanelsThe lab analyst performs a lipid panel test in which he measures the blood level of cholesterol and fats called triglycerides in the blood.
+82550 		:	   Under Chemistry ProceduresThe lab analyst measures the amount of total creatine kinase in a patient specimen. Creatine kinase, or CK, is an enzyme found in various tissue and cell types such as the heart, brain, or muscles and is also known as creatine phosphokinase, or CPK.
+86140 		:	   Under Qualitative or Semiquantitative ImmunoassaysThe lab analyst performs the technical lab test to analyze a specimen, typically serum, for the presence of C reactive protein.
+83605 		:	   Under Chemistry ProceduresThe lab analyst measures the lactate, most often in a blood or plasma sample. Lactate, also known as lactic acid, is the end product of anaerobic carbohydrate metabolism produced primarily by muscle activity.
+82962 		:	   Under Chemistry ProceduresBlood glucose monitoring at home with small electronic devices is an easy method to check blood sugar level on a daily basis. The patient himself can perform the procedure and the result is obtained instantly. This method is also known as the "fingerstick method." Remember that blood glucose monitoring at home is done using FDA–approved devices.
+85384 		:	   Under Hematology and Coagulation ProceduresThe lab analyst performs the technical steps of a test for clotting activity of fibrinogen. 
+82248 		:	   Under Chemistry ProceduresThe lab analyst measures the amount of direct bilirubin in a patient’s blood. Bilirubin is the yellow color pigment found in the bile, a fluid made by the liver. Direct bilirubin is a water soluble form of bilirubin, or one which can dissolve in water. Production of direct bilirubin is a final step in a complex sequence of actions that occurs as the body rids itself of the waste product of the old red blood cells.
+81003 		:	   Under Urinalysis ProceduresThe lab analyst inserts a dip stick into a freshly collected urine specimen, removes the dipstick, and shakes off the excess urine. She places the stick onto a mechanical dip stick reader that will automatically read and record the chemical analytes and other constituents such as leukocytes, pH, and specific gravity.
+87635 		:	   Under Infectious Agent Antigen DetectionUsing an amplified nucleic acid probe technique, the lab analyst performs the necessary steps to identify the nucleic acids from the severe acute respiratory syndrome coronavirus 2 (SARS–COV–2) virus ), which causes coronavirus disease 2019 (COVID–19).
+82805 		:	   Under Chemistry ProceduresThe lab analyst measures any number of blood gas parameters using a blood gas analyzer. The test must also include the O2 saturation by direct measurement.
+84443 		:	   Under Chemistry ProceduresThe lab analyst performs a test to measure the amount of thyroid–stimulating hormone (TSH), a hormone produced in the pituitary gland that helps regulate thyroid function. The typical specimen is the patient's blood collected via routine vein puncture. 
+83690 		:	   Under Chemistry ProceduresThe lab analyst measures the amount of lipase enzyme in the patient specimen. Lipase is an enzyme that the pancreas secretes to help in the absorption of fat.
+83880 		:	   Under Chemistry ProceduresThe lab analyst measures the amount of natriuretic peptide, a hormone made by heart muscle cells, in the patient specimen. Blood levels of the hormone increase in patients with congestive heart failure.
+87040 		:	   Under Microbiology Culture and Typing ProceduresThe lab analyst performs a bacterial culture on blood, and isolates and presumptively identifies any bacteria that grow on selected aerobic media. This code also includes work for anaerobic culture, when performed.
+86141 		:	   Under Qualitative or Semiquantitative ImmunoassaysThe lab analyst performs the technical lab test to analyze the specimen, such as serum, for high sensitivity C reactive protein, hsCRP.
+83615 		:	   Under Chemistry ProceduresThe lab analyst measures the lactate dehydrogenase, typically in a serum sample. Lactate dehydrogenase is found in many body tissues, especially in the liver, kidney, and heart, and also in red blood cells.
+87086 		:	   Under Microbiology Culture and Typing ProceduresThe lab analyst or microbiologist cultures the submitted urine specimen, typically a clean catch or catheterized collection, and if growth is present, reports the quantitative colony count result.
+87070.0 		:	   Under Microbiology Culture and Typing ProceduresThe lab analyst performs the technical lab steps to culture a specimen from any source except urine, blood, or stool. This service involves aerobic culture, which refers to the presence of oxygen. The analyst also isolates the organism present and performs analysis of the isolate for a presumptive identification.
+85520.0 		:	   Under Hematology and Coagulation ProceduresThe lab analyst evaluates a plasma specimen to measure heparin concentration. 
+82570.0 		:	   Under Chemistry ProceduresThe lab analyst measures the amount of creatinine, in a patient specimen, other than blood. Creatinine is the waste material generated by the muscle tissue produced from the breakdown of creatine used by the muscles for energy production.
+87880.0 		:	   Under Infectious Agent Antigen DetectionThe analyst performs an immunoassay with direct optical, meaning visual, observation to detect Streptococcus, group A, in a patient sample, typically a throat swab.
+83540.0 		:	   Under Chemistry ProceduresThe lab analyst measures the iron level, primarily in serum. Iron is one of the essential elements in the body, and the greatest portion is present combined with hemoglobin within the red blood cells.
+86803.0 		:	   Under Qualitative or Semiquantitative ImmunoassaysA lab analyst performs an immunoassay to evaluate the patient’s serum for antibodies to Hepatitis C, HCV, a virus that causes liver infection and chronic liver disease.
+85018.0 		:	   Under Hematology and Coagulation ProceduresThe lab analyst measures the hemoglobin in a whole blood sample. Hemoglobin is the red pigmented iron compound contained in the red blood cell that combines with oxygen needed by the body tissue.
+82553.0 		:	   Under Chemistry ProceduresThe lab analyst measures the amount of one of the three isoenzymes of creatine kinase (CK) in a patient specimen. This code represents the lab test for the MB fraction only of CK, an enzyme found in various tissue and cell types such as the heart, brain, or muscles; also known as creatine phosphokinase (CPK).
+82803.0 		:	   Under Chemistry ProceduresThe lab analyst performs blood gas analysis to measure at least two of the listed parameters. He typically performs an arterial blood gas analysis, called an ABG, using arterial blood inserted into a blood gas analyzer that measures several parameters to assess respiratory status including pH, pCO2, pO2, CO2, HCO3, and calculated O2 saturation. These tests indicate the amount of oxygen and carbon dioxide as well as acid and base balance in the blood.
+87186.0 		:	   Under Antimicrobial Susceptibility StudiesThe lab analyst performs the technical steps to evaluate a culture isolate’s susceptibility, or sensitivity, to multiple antimicrobial agents, commonly called antibiotics, by observing growth of the isolate on various concentrations of each antibiotic using agar dilution or microdilution methods to determine the minimum inhibitory concentration.
+87077.0 		:	   Under Microbiology Culture and Typing ProceduresThe lab analyst performs additional tests on a presumptively identified aerobic isolate to definitively, which means more specifically, identify the organism, such as to the level of species.
+80197.0 		:	   Under Therapeutic Drug AssaysThe lab analyst performs the technical lab test to analyze a specimen to quantitate the total amount of tacrolimus present, which is an immunosuppressant drug patients often use to prevent rejection after a transplant.
+80069.0 		:	   Under Organ or Disease Oriented PanelsThe lab analyst performs a renal function panel test in which he measures the blood level of certain chemicals the descriptor lists to evaluate how well the kidney is functioning.
+87491.0 		:	   Under Infectious Agent Antigen DetectionThe lab analyst performs a test for Chlamydia trachomatis using amplified nucleic acid probe technique.
+84550.0 		:	   Under Chemistry ProceduresThe lab analyst performs a test to measure the amount of uric acid in patient blood.
+82607.0 		:	   Under Chemistry ProceduresThe lab analyst performs a test to measure the amount of vitamin B12 in a patient specimen, typically in patient blood.       
+83970.0 		:	   Under Chemistry ProceduresParathyroid hormone test measures the level of PTH in the blood. This test is done to ascertain the level of calcium and evaluate the parathyroid function.
+87205.0 		:	   Under Primary Source Smear ProceduresThe analyst performs a technical lab test for bacteria, fungi, or cell types using Gram or Giemsa stain on a primary source with interpretation.
+83550.0 		:	   Under Chemistry ProceduresThe lab analyst measures the iron binding capacity, typically in a serum sample. This analyte is an important measurement of the capacity of iron to bind to transferrin. That capacity is also known as transferrin saturation.
+85652.0 		:	   Under Hematology and Coagulation ProceduresThe lab analyst performs a test on patient blood to evaluate the rate of sedimentation of red blood cells using an automated test platform.
+82746.0 		:	   Under Chemistry ProceduresThe lab analyst measures the folic acid level in serum to determine if there is a deficiency. Folic acid deficiency is attributed to many conditions such as malabsorption, Crohn’s disease, celiac sprue, and previous bypass surgical procedures that reduce absorption.
+84134.0 		:	   Under Chemistry ProceduresThe lab analyst performs a test to evaluate the level of prealbumin in a patient specimen such as serum.
+85014.0 		:	   Under Hematology and Coagulation ProceduresThe lab analyst determines the volume percent of red blood cells, called hematocrit, contained in a whole blood specimen.
+85045.0 		:	   Under Hematology and Coagulation ProceduresThe lab analyst uses an automated hematology analyzer to determine the reticulocyte count.
+84439.0 		:	   Under Chemistry ProceduresThe lab analyst performs a test to measure free thyroxine, or free T4, typically in patient serum.
+82306.0 		:	   Under Chemistry ProceduresThe lab analyst measures the vitamin D level, typically on a serum specimen. This analyte, commonly known as vitamin D, is not really a vitamin, but is an important steroid hormone that is produced by the liver. It is commonly known as the sunshine vitamin, with sunlight on the skin being a common source of this important vitamin.
+82330.0 		:	   Under Chemistry ProceduresThe lab analyst measures this ionized form of calcium primarily on serum, blood, or a capillary sample. Providers use ionized calcium testing extensively during major surgeries where the importance of measuring the active form of calcium is crucial during a critical time frame. Providers often use point–of–care technology for ionized calcium testing.
+80202.0 		:	   Under Therapeutic Drug AssaysThe lab analyst performs the technical lab test to analyze a specimen to quantitate the amount of vancomycin present, which is an antibiotic.
+87340.0 		:	   Under Infectious Agent Antigen DetectionThe lab analyst performs a test to detect hepatitis B surface antigen, also called HBsAg, using an immunoassay technique, such as EIA.
+84295.0 		:	   Under Chemistry ProceduresThe lab analyst performs a test to measure the concentration of sodium in serum, plasma, or whole blood.  
+84145.0 		:	   Under Chemistry ProceduresThe lab analyst performs a test to evaluate the level of procalcitonin, also called PCT or ProCT, in a patient specimen such as serum. 
+81025.0 		:	   Under Urinalysis ProceduresThe lab analyst performs the pregnancy test on a urine specimen using a methodology or kit that the analyst can read visually for a direct readout.
+84132.0 		:	   Under Chemistry ProceduresThe lab analyst measures the amount of potassium in a patient specimen, typically blood, which the analyst collects using routine vein puncture.
+87591.0 		:	   Under Infectious Agent Antigen DetectionThe lab analyst performs a lab test for Neisseria gonorrhoeae, also called GC, using amplified nucleic acid probe technique.
+Z68.54          :      Body mass index [BMI] pediatric, greater than or equal to 95th percentile for age
+R74.8           :      Abnormal levels of other serum enzymes
+Z68.52          :      Body mass index [BMI] pediatric, 5th percentile to less than 85th percentile for age
+Z51.81          :      Encounter for therapeutic drug level monitoring
+Z13.0           :      Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+R76.8           :      Other specified abnormal immunological findings in serum
+V72.60          :      Laboratory examination, unspecified
